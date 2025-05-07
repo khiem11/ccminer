@@ -1,5 +1,5 @@
 
-# CCMINER GUIDE By tomyrambozha
+# CCMINER 
 thanks for :
 original sourced by : 
    Christian Buchner ( Christian.Buchner@gmail.com )
